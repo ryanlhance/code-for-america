@@ -257,7 +257,16 @@ jd_prose = [
 
   {"type": "h2", "text": "About you:"},
   {"type": "p", "segments": [
-    "This position is a perfect fit for an experienced service designer or design strategist who wants to apply their skills to improving large-scale government programs through technology-forward interventions, while thoughtfully considering complex technical, policy, and operational constraints."
+    "This position is a perfect fit for ",
+    ph("p-experienced-sd", "an experienced service designer or design strategist",
+       ["ev-sd-years", "ev-service-blueprint", "ev-scad"]),
+    " who wants to apply their skills to improving large-scale government programs through ",
+    ph("p-tech-forward", "technology-forward interventions",
+       ["ev-adoption", "ev-pf-personas"]),
+    ", while ",
+    ph("p-complex-constraints", "thoughtfully considering complex technical, policy, and operational constraints",
+       ["ev-ad-constraints", "ev-bayer-journey", "ev-ags-blueprint"]),
+    "."
   ]},
   {"type": "li", "segments": [
      ph("p-6years", "6+ years of service design and/or design strategy experience",

@@ -736,7 +736,36 @@
     {
       "type": "p",
       "segments": [
-        "This position is a perfect fit for an experienced service designer or design strategist who wants to apply their skills to improving large-scale government programs through technology-forward interventions, while thoughtfully considering complex technical, policy, and operational constraints."
+        "This position is a perfect fit for ",
+        {
+          "id": "p-experienced-sd",
+          "text": "an experienced service designer or design strategist",
+          "evidence": [
+            "ev-sd-years",
+            "ev-service-blueprint",
+            "ev-scad"
+          ]
+        },
+        " who wants to apply their skills to improving large-scale government programs through ",
+        {
+          "id": "p-tech-forward",
+          "text": "technology-forward interventions",
+          "evidence": [
+            "ev-adoption",
+            "ev-pf-personas"
+          ]
+        },
+        ", while ",
+        {
+          "id": "p-complex-constraints",
+          "text": "thoughtfully considering complex technical, policy, and operational constraints",
+          "evidence": [
+            "ev-ad-constraints",
+            "ev-bayer-journey",
+            "ev-ags-blueprint"
+          ]
+        },
+        "."
       ]
     },
     {
