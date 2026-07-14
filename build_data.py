@@ -41,9 +41,9 @@ evidence = {
 
   # -- multiple workstreams / pace --
   "ev-bayer-flux": {"title": "Multiple Workstreams", "text": "My role at Bayer was constantly in flux, in the best way: UX lead for the farmer experience, design strategist for the operations platforms, then lead strategist for the generative AI effort — design leaders kept passing me around a 25,000-person division."},
-  "ev-film-producer": {"title": "Six Productions at Once", "text": "Owned productions end to end as the client's point of contact, delivering on time and on budget while running an average of six concurrent productions, peaking at ten to twelve."},
+  "ev-film-producer": {"title": "Concurrent Project Management", "text": "Owned productions end to end as the client's point of contact, delivering on time and on budget while running an average of six concurrent productions, peaking at ten to twelve."},
   "ev-parallel": {"title": "Parallel Workloads", "text": "Built a startup to a profitable exit while working Bayer full time — Bayer was my 9-to-5, the startup was my 5-to-9."},
-  "ev-rampfast": {"title": "Fast Ramp-Up", "text": "Walked into a Fortune 500 knowing nothing about agriculture and was shipping across four platforms within a year."},
+  "ev-rampfast": {"title": "Rapid Domain Learning", "text": "Walked into a Fortune 500 knowing nothing about agriculture and was shipping across four platforms within a year."},
   "ev-agile": {"title": "Agile Experience", "text": "Worked inside agile product teams across four Bayer platforms: refined backlogs, aligned hundreds of technical stories to user needs, led user acceptance testing across the North American user base, and built out the scrum board — writing all the stories and leading scrum — for a legacy platform team."},
 
   # -- collaboration / facilitation / communication --
@@ -65,8 +65,8 @@ evidence = {
   # -- mission / service --
   "ev-mission-service": {"title": "Servant Leadership", "text": "Seven summers on staff at a summer camp serving thousands of kids, leadership development practice for high school and college students, and cohort-based men's work currently."},
   "ev-systems-for-people": {"title": "Systems Thinking", "text": "My brain operates in the unseen, constantly mapping, blueprinting, and writing the playbooks for the iceberg people only see the tip of."},
-  "ev-bananas": {"title": "Fans-First Experience", "text": "First hire on the Savannah Bananas entertainment team: designed and executed the Fans First experiences and promotional campaigns the company standardized and scaled with, contributing to a 500% social awareness surge and the first sold-out season of 250,000 fans."},
-  "ev-dryland-scale": {"title": "Startup to Exit", "text": "Chief of staff who scaled Dryland, a construction-science startup, from one client to a profitable exit. One org redesign — detaching the CEO from day-to-day work — doubled revenue and quadrupled headcount in three months."},
+  "ev-bananas": {"title": "Experience Design", "text": "First hire on the Savannah Bananas entertainment team: designed and executed the Fans First experiences and promotional campaigns the company standardized and scaled with, contributing to a 500% social awareness surge and the first sold-out season of 250,000 fans."},
+  "ev-dryland-scale": {"title": "Organizational Transformation", "text": "Chief of staff who scaled Dryland, a construction-science startup, from one client to a profitable exit. One org redesign — detaching the CEO from day-to-day work — doubled revenue and quadrupled headcount in three months."},
   "ev-responsible-ai": {"title": "Responsible AI", "text": "I've been integrating AI into human systems since before commercial integrations existed — agentic personas validated by 20+ year subject-matter experts above 80% accuracy before teams were allowed to rely on them, and stakeholder AI education from Indonesia to Brazil."},
 
   # -- education / logistics --
